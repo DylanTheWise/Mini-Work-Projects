@@ -1,0 +1,350 @@
+Utah,UTAH
+Stanford,STAN
+UCLA,UCLA
+Washington,WASH
+Western Illinois,WIU
+Omaha,OMA
+IUPUI,IUPU
+South Dakota,SDAK
+North Texas,UNT
+Texas San Antonio,UTSA
+Denver,DEN
+South Dakota State,SDSU
+Rice,RICE
+UTEP,UTEP
+USC,USC
+Washington State,WSU
+Colorado,COLO
+California,CAL
+Maryland,MD
+North Carolina,UNC
+Loyola (MD),L-MD
+Kansas,KU
+North Dakota State,NDSU
+Iowa State,ISU
+Villanova,NOVA
+Saint Joseph's,JOES
+Virginia,UVA
+Ohio State,OSU
+Purdue,PUR
+Pittsburgh,PITT
+Miami (FL),MIA
+Nebraska,NEB
+Michigan,MICH
+NC State,NCST
+Northwestern,NW
+Virginia Tech,VT
+Bradley,BRAD
+Delaware,DEL
+Colgate,COLG
+Binghamton,BING
+Wofford,WOF
+Georgia Tech,GT
+Mississippi Valley State,MVSU
+Duquesne,DUQ
+Albany,ALBY
+Quinnipiac,QUIN
+Richmond,RICH
+Florida,FLA
+Oakland,OAK
+Georgia,UGA
+Florida Atlantic,FAU
+East Carolina,ECU
+Wright State,WRST
+Maryland-Eastern Shore,UMES
+Georgetown,GTWN
+Old Dominion,ODU
+William & Mary,W&M
+Marshall,MRSH
+Ohio,OHIO
+Davidson,DAV
+Charlotte,CHAR
+Ball State,BALL
+Fairfield,FAIR
+Iona,IONA
+Siena,SIE
+Cornell,COR
+American,AMER
+Mount St Mary's,MSM
+Furman,FUR
+Nicholls State,NICH
+Utah State,USU
+Missouri State,MOST
+UT-Arlington,UTA
+Texas,TEX
+North Dakota,UND
+Southeastern Louisiana,SELA
+Lipscomb,LIP
+Belmont,BEL
+Northwestern State,NWST
+Arkansas,ARK
+Central Arkansas,UCA
+Arkansas-Little Rock,UALR
+Eastern Michigan,EMU
+Eastern Kentucky,EKY
+Western Kentucky,WKU
+Alabama State,ALST
+Evansville,EVAN
+Indiana State,INST
+Eastern Illinois,EIU
+Tennessee-Martin,UTM
+UMKC,UMKC
+Southern Mississippi,USM
+Troy,TROY
+Louisiana Tech,LT
+Memphis,MEM
+Weber State,WEB
+Arkansas State,ARST
+Missouri,MIZ
+Georgia State,GAST
+UAB,UAB
+Montana State,MTST
+Utah Valley,UVU
+Samford,SAM
+Jacksonville State,JVST
+Oral Roberts,ORU
+New Mexico,UNM
+Eastern Washington,EWU
+San Francisco,SF
+Cal State Fullerton,CSF
+Seattle,SEA
+Long Beach State,LBSU
+Michigan State,MSU
+Penn State,PSU
+Butler,BUT
+UCF,UCF
+SMU,SMU
+Louisville,LOU
+Clemson,CLEM
+Illinois,ILL
+Cincinnati,CIN
+South Florida,USF
+Rhode Island,URI
+Valparaiso,VALP
+Detroit,DET
+Indiana,IND
+Tulsa,TLSA
+Tulane,TULN
+Fordham,FOR
+UIC,UIC
+VCU,VCU
+Saint Louis,SLU
+Wake Forest,WAKE
+Oregon,ORE
+Iowa,IOWA
+NJIT,NJIT
+St Francis (BKN),SFNY
+Canisius,CAN
+Louisiana Monroe,ULM
+Kent State,KENT
+Boston University,BU
+UMass Lowell,UML
+East Tennessee State,ETSU
+Seton Hall,HALL
+Southern,SOU
+Wyoming,WYO
+Idaho,IDHO
+Chattanooga,CHAT
+Winthrop,WIN
+VMI,VMI
+Monmouth,MONM
+UNC Greensboro,UNCG
+Western Carolina,WCU
+Florida A&M,FAMU
+Hampton,HAMP
+Sam Houston State,SHSU
+Bucknell,BUCK
+Lehigh,LEH
+North Carolina A&T,NCAT
+South Carolina State,SCST
+Incarnate Word,IW
+New Orleans,UNO
+Howard,HOW
+Delaware State,DSU
+Morgan State,MORG
+CSU Bakersfield,CSB
+Chicago State,CHS
+Bethune-Cookman,COOK
+Norfolk State,NORF
+North Carolina Central,NCCU
+Savannah State,SAV
+Alabama A&M,AAMU
+Arkansas-Pine Bluff,ARPB
+Texas A&M-CC,AMCC
+Lamar,LAM
+Grambling State,GRAM
+Alcorn State,ALCN
+Jackson State,JKST
+South Carolina Upstate,UPST
+Prairie View A&M,PV
+TCU,TCU
+UT Rio Grande Valley,TRGV
+Oregon State,ORST
+Arizona State,ASU
+Kentucky,UK
+Oklahoma,OKLA
+Youngstown State,YSU
+Xavier,XAV
+Bryant,BRY
+Providence,PROV
+Tennessee,TENN
+Gonzaga,GONZ
+Boise State,BSU
+Wichita St,WICH
+Connecticut,CONN
+Auburn,AUB
+Middle Tennessee,MTSU
+Bowling Green,BGSU
+St Francis (PA),SFU
+Pepperdine,PEPP
+Louisiana Lafayette,ULL
+UMBC,UMBC
+Cleveland State,CLEV
+Navy,NAVY
+Marquette,MARQ
+Wisconsin,WIS
+Buffalo,BUFF
+Liberty,LIB
+Jacksonville,JAC
+Tennessee State,TNST
+Abilene Christian,ACU
+UNC Wilmington,UNCW
+Austin Peay,PEAY
+IPFW,IPFW
+Ole Miss,MISS
+Southeast Missouri State,SEMO
+LIU Brooklyn,LIU
+Niagara,NIAG
+Lafayette,LAF
+Sacred Heart,SHU
+Saint Mary's,SMC
+George Mason,GMU
+James Madison,JMU
+Army,ARMY
+Air Force,AFA
+Gardner-Webb,WEBB
+Radford,RAD
+Stony Brook,STON
+Northeastern,NE
+Rutgers,RUTG
+George Washington,GW
+Texas Southern,TXSO
+Central Michigan,CMU
+Western Michigan,WMU
+Creighton,CREI
+Princeton,PRIN
+Portland State,PRST
+SIU Edwardsville,SIUE
+Mississippi State,MSST
+Kansas State,KSU
+Texas A&M,TAMU
+Rider,RID
+Charleston Southern,CHSO
+Montana,MONT
+McNeese State,MCNS
+Longwood,LONG
+Drake,DRKE
+Nevada,NEV
+Dayton,DAY
+Holy Cross,HC
+Hartford,HART
+Columbia,CLMB
+Marist,MRST
+Toledo,TOL
+North Florida,UNF
+UNLV,UNLV
+UC Riverside,UCRV
+Akron,AKR
+Stephen F. Austin,SFA
+Pacific,PAC
+Fresno State,FRES
+Manhattan,MAN
+BYU,BYU
+Tennessee Tech,TNTC
+Houston Baptist,HBU
+Southern Illinois,SIU
+Oklahoma State,OKST
+Minnesota,MINN
+UC Irvine,UCI
+Northern Iowa,UNI
+Loyola Marymount,LMU
+Idaho State,IDST
+Sacramento State,SAC
+Portland,PORT
+DePaul,DEP
+Dartmouth,DART
+Santa Clara,SCU
+Hawaii,HAW
+Temple,TEM
+Northern Colorado,UNCO
+Duke,DUKE
+Fairleigh Dickinson,FDU
+Arizona,ARIZ
+Southern Utah,SUU
+Vanderbilt,VAN
+Notre Dame,ND
+Maine,MAINE
+LSU,LSU
+Baylor,BAY
+Vermont,UVM
+Yale,YALE
+Robert Morris,RMU
+Penn,PENN
+Wagner,WAG
+St John's,SJU
+Northern Kentucky,NKU
+West Virginia,WVU
+UNC Asheville,UNCA
+Charleston,COFC
+Syracuse,SYR
+Miami (OH),M-OH
+Presbyterian College,PRE
+Florida Intl,FIU
+Coppin State,COPP
+New Hampshire,UNH
+Hofstra,HOF
+Georgia Southern,GASO
+Milwaukee,MILW
+Mercer,MER
+Harvard,HARV
+Morehead State,MORE
+San Diego,USD
+St Bonaventure,SBON
+Central Connecticut,CCSU
+Drexel,DREX
+CS Northridge,CSN
+Northern Illinois,NIU
+UC Santa Barbara,UCSB
+Loyola (CHI),L-IL
+Murray State,MURR
+South Alabama,USA
+Campbell,CAMP
+Brown,BRWN
+Saint Peter's,SPU
+Northern Arizona,NAU
+Kennesaw State,KENN
+Alabama,ALA
+Elon,ELON
+UC Davis,UCD
+Green Bay,GB
+High Point,HP
+Texas Tech,TTU
+Grand Canyon,GCU
+New Mexico State,NMSU
+Coastal Carolina,CCAR
+Illinois State,ILST
+Cal Poly,CP
+La Salle,LAS
+Massachusetts,UMASS
+Florida Gulf Coast,FGCU
+Florida State,FSU
+Texas State,TXST
+Boston College,BC
+San José State,SJSU
+Houston,HOU
+Colorado State,CSU
+The Citadel,CIT
+Appalachian State,APP
+Towson,TOWS
+South Carolina,SCAR
+Stetson,STET
